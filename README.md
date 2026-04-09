@@ -16,13 +16,12 @@
   <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-555555?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 
 <br/><br/>
 
 <!-- Trophy Section -->
-<img src="https://github-profile-trophy.vercel.app/?username=sharukesh-m&theme=tokyonight&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-
+ <img src="https://github-profile-trophy.vercel.app/?username=sharukesh-m&theme=tokyonight&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
 </div>
 
@@ -103,9 +102,10 @@ const aiEngineer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sharukesh-m&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=050a14&title_color=00d4ff&icon_color=7c3aed&text_color=e2f0ff&border_radius=12" width="48%" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharukesh-m&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a14&title_color=00d4ff&text_color=e2f0ff&border_radius=12" width="48%" alt="Top Languages"/>
+<img src="https://img.shields.io/github/stars/sharukesh-m?style=for-the-badge&logo=github&color=3B82F6&label=Total%20Stars" />
+  <img src="https://img.shields.io/github/followers/sharukesh-m?style=for-the-badge&logo=github&color=7c3aed&label=Followers" />
+</div>
+
 
 <br/><br/>
 
